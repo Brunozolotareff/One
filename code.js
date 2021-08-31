@@ -43,4 +43,8 @@ function bd3(){
     console.log('ola')
 }
 
+function bd4(){
+    console.log('ola')
+}
+
 
