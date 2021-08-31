@@ -39,4 +39,8 @@ radio4.innerHTML = resp1.d
 
 }
 
+function bd3(){
+    console.log('ola')
+}
+
 
